@@ -1,0 +1,23 @@
+{
+  "version": "0.1.0",
+  "name": "Decimal to Binary",
+  "description": "Convert Decimal To binary",
+  "launch_path": "/index.html",
+  "icons": {
+    "48": "/img/icons/Imgur-icon16.png",
+    "128": "/img/icons/Imgur-icon128.png"
+  },
+  "developer": {
+    "name": "Ishan Udeshka"
+   
+  },
+ 
+  "locales": {
+    "es": {
+      "name": "Aplicación vacía privilegiada",
+      "description": "Una plantilla con la mínima estructura",
+      "permissions": {}
+    }
+  },
+  "default_locale": "en"
+}
